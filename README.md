@@ -1,7 +1,7 @@
 # ACCESS Artifacts
 This repo tracts recurrent artifacts that we observe in MSK-ACCESS data
 
-# There are three different folders for each variant type
+## There are three different folders for each variant type
 - Small variants
 - Structural variants
 - Copy number variants
